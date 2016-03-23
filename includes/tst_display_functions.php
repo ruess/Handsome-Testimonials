@@ -12,6 +12,11 @@
  */
 
 
+//let's put some pretend slider code here
+function tst_slider_code () {
+	echo "great job - here's a slider";
+}
+
 //Paser for shortcode functions
 function hndtst_shorcode_parser ( $atts ) {
 
